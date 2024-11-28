@@ -1,0 +1,1 @@
+# Tekstu_vardu_biezums
