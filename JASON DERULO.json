@@ -1,0 +1,32 @@
+{
+"Sheet1":[
+ {
+  "Vārds": "Armīns",
+  "Uzvārds": "Rjabinkins",
+  "Klase": "12.A",
+  "Vecums": 19,
+  "Adrese": "Stiķi"
+ },
+ {
+  "Vārds": "Amanda",
+  "Uzvārds": "Šonmane",
+  "Klase": "12.C",
+  "Vecums": 18,
+  "Adrese": "Priedes"
+ },
+ {
+  "Vārds": "Niks ",
+  "Uzvārds": "Močuļskis",
+  "Klase": "12.A",
+  "Vecums": 18,
+  "Adrese": "Pļavu iela 3"
+ },
+ {
+  "Vārds": "Asafs ",
+  "Uzvārds": "Alpe",
+  "Klase": "12.A",
+  "Vecums": 17,
+  "Adrese": "Tur kaut kur"
+ }
+]
+}
